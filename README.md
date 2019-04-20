@@ -9,6 +9,7 @@ An app to track what happened, what you're thinking and what you're feeling
 2. User can record a thought
 3. User can record a feeling
 
+Bonus functionality: https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder
 ### Sitemap
 
 The user experience will flow as follows:
