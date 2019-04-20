@@ -11,7 +11,9 @@ An app to track what happened, what you're thinking and what you're feeling
 
 - Bonus functionality
     - https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder
-    - Reference: https://console.cloud.google.com/apis/library/language.googleapis.com?q=natural&id=223648f2-2e7c-4acd-b0ca-782f9021a541&_ga=2.43860517.-1048953034.1555219250&project=gtfs-30x30&folder&organizationId
+        - Related reference: https://console.cloud.google.com/apis/library/language.googleapis.com?q=natural&id=223648f2-2e7c-4acd-b0ca-782f9021a541&_ga=2.43860517.-1048953034.1555219250&project=gtfs-30x30&folder&organizationId
+    - Heart rate data?
+        - https://studio.fitbit.com/
     
 ### Sitemap
 
