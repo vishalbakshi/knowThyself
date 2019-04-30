@@ -17,7 +17,7 @@ An app to track what happened, what you're thinking and what you're feeling
 
 ### Prototype
 
-The <a href="https://www.figma.com/proto/Zx6bkN3eJ2IMBN1P6zxu311O/knowthyself?node-id=0%3A1&scaling=scale-down">version 1 prototype is located at this link</a>. I created it using <a href="https://figma.com">Figma</a> which is a free online design tool.
+The <a href="https://www.figma.com/file/Zx6bkN3eJ2IMBN1P6zxu311O/knowthyself?node-id=0%3A1">version 1 prototype is located at this link</a>. I created it using <a href="https://figma.com">Figma</a> which is a free online design tool.
 
 
 ### Sitemap
