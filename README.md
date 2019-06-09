@@ -9,7 +9,19 @@ An app to track what happened, what you're thinking and what you're feeling
 2. User can record a thought
 3. User can record a feeling
 
+- Bonus functionality
+    - https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder
+        - Related reference: https://console.cloud.google.com/apis/library/language.googleapis.com?q=natural&id=223648f2-2e7c-4acd-b0ca-782f9021a541&_ga=2.43860517.-1048953034.1555219250&project=gtfs-30x30&folder&organizationId
+    - Heart rate data?
+        - https://studio.fitbit.com/
+
+### Prototype
+
+The <a href="https://www.figma.com/proto/Zx6bkN3eJ2IMBN1P6zxu311O/knowthyself?node-id=0%3A1&scaling=scale-down">version 1 prototype is located at this link</a>. I created it using <a href="https://figma.com">Figma</a> which is a free online design tool.
+
+
 ### Sitemap
+
 
 The user experience will flow as follows:
 
